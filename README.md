@@ -1,1 +1,2 @@
-# data-structure
+## Data Structure
+#### 자료구조에 대한 학습 및 직접 구현해보는 스터디 프로젝트
